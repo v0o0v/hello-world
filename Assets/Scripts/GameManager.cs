@@ -5,6 +5,8 @@ public class GameManager : MonoBehaviour
 
     private void Start(){
         Debug.Log(Time.time);
+        
+        //주석추가
     }
 
 }
